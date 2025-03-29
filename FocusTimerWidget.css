@@ -1,0 +1,22 @@
+.focus-timer-widget {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+    background-color: #f9f9f9; /* Default background */
+    transition: background-color 0.3s ease-in-out;
+}
+
+.focus-mode {
+    background-color: #fff8b3 !important; /* Light yellow */
+}
+
+.break-mode {
+    background-color: #b3ffb3 !important; /* Light green */
+}
+
+.title {
+    font-weight: bold;
+}
